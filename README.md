@@ -10,7 +10,6 @@ https://user-images.githubusercontent.com/83914842/137162818-9c83d07b-fbb7-49c1-
  - Documentação da API
  - Tecnologias utilizadas 
  - Como baixar o projeto
----
 
 
 ## Descrição do projeto
@@ -19,11 +18,11 @@ O projeto deve ter as seguintes  **três páginas:**
  -  **Home:**  o usuário deve receber uma lista de pokémons vinda da API. Ele pode armazenar Pokémons em sua Pokédex clicando em cada um.
  -  **Pokedex:**  o usuário deve pode ver os pokémons que foram adicionados em sua Pokedex.
  -  **Detalhe do Pokémon:**  Deve ser possível ir para uma página de detalhes do Pokémon ao clicar no mesmo, estando tanto na Home quanto na Pokédex.
- ---
+ 
  
 ## Acessar o projeto
  - [Link do surge](https://abashed-hook.surge.sh/)
- ---
+ 
 ## Tecnologias utilizadas 
 - [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 - [Styled-Components](https://styled-components.com/docs)
