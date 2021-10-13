@@ -29,7 +29,7 @@ O projeto deve ter as seguintes  **três páginas:**
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [Material UI](https://mui.com/components/buttons/)
 - [Context](https://pt-br.reactjs.org/docs/context.html)
----
+
 **Para baixar o projeto:**
 Primeiro instale o [Git](https://git-scm.com/), [Node.Js](https://nodejs.org/pt-br/download/) + [npm](https://www.npmjs.com/get-npm)
 ---
