@@ -2,6 +2,7 @@
 
 A ideia  deste projeto é realizar uma integração com a [POKE API](https://pokeapi.co/)  _Pokédex_. Ela é uma API pública, bastante utilizada como fonte de dados para aplicações focadas em aprendizado de programação.
 
+
 # Índice
 
  - Descrição
