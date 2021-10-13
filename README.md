@@ -19,6 +19,8 @@ O projeto deve ter as seguintes  **três páginas:**
  -  **Home:**  o usuário deve receber uma lista de pokémons vinda da API. Ele pode armazenar Pokémons em sua Pokédex clicando em cada um.
  -  **Pokedex:**  o usuário deve pode ver os pokémons que foram adicionados em sua Pokedex.
  -  **Detalhe do Pokémon:**  Deve ser possível ir para uma página de detalhes do Pokémon ao clicar no mesmo, estando tanto na Home quanto na Pokédex.
+ ---
+ 
 ## Acessar o projeto
  - [Link do surge](https://abashed-hook.surge.sh/)
  ---
