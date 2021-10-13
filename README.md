@@ -6,7 +6,6 @@ https://user-images.githubusercontent.com/83914842/137162818-9c83d07b-fbb7-49c1-
 
 # Índice
 
- - Descrição
  - Descrição do projeto
  - Documentação da API
  - Tecnologias utilizadas 
