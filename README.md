@@ -27,7 +27,6 @@ O projeto deve ter as seguintes  **três páginas:**
 - [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 - [Styled-Components](https://styled-components.com/docs)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
-- [Material UI](https://mui.com/components/buttons/)
 - [Context](https://pt-br.reactjs.org/docs/context.html)
 
 **Para baixar o projeto:**
